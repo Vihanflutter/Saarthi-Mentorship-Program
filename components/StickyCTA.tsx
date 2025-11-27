@@ -17,7 +17,7 @@ export const StickyCTA: React.FC<StickyCTAProps> = ({ onTalkClick }) => {
           variant="whatsapp" 
           fullWidth 
           className="text-lg font-semibold flex items-center justify-center gap-2"
-          onClick={() => window.open('https://wa.me/919999999999', '_blank', 'noopener,noreferrer')}
+          onClick={() => window.open('https://wa.me/918949193467', '_blank', 'noopener,noreferrer')}
         >
           <MessageCircle className="w-5 h-5" />
           Chat on WhatsApp

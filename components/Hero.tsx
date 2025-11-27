@@ -70,12 +70,12 @@ export const Hero: React.FC<HeroProps> = ({ onTalkClick }) => {
                 Example: src="/images/confused-to-topper.png"
              */}
              <img 
-               src="https://placehold.co/800x800/EEE/31343C?text=Comparison+Image%0A(Confused+vs+Topper)" 
-               alt="Soching Saarthi Transformation: From Confused Student to Confident Topper" 
-               className="relative w-full h-auto rounded-3xl shadow-2xl hover:scale-[1.02] transition-transform duration-300 border-4 border-white/20"
-               width="800"
-               height="800"
-             />
+  src="/Saarthi-Mentorship-Program/comparison.jpeg" 
+  alt="Soching Saarthi Transformation: From Confused Student to Confident Topper" 
+  className="relative w-full h-auto rounded-3xl shadow-2xl hover:scale-[1.02] transition-transform duration-300 border-4 border-white/20"
+  width="800"
+  height="800"
+/>
              <p className="text-center text-blue-200/60 text-[10px] mt-2 font-medium">
                *Image illustrates student transformation journey
              </p>
